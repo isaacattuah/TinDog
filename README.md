@@ -1,3 +1,6 @@
+ # TinDog
+ A simple dog dating website built using HTML, CSS & Bootstrap.
+ 
  # Lessons Covered Throughout Development 
  * Wireframing 
  * Bootstrap Grid Layout 
